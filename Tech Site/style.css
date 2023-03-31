@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    text-align: center;
+}
+
+.banner {
+    background-image:
+    url(https://storage.googleapis.com/afs-prod/media/afs:Medium:5511630073/1900.png);
+    background-repeat: no-repeat;
+}
+
+.pc_build_image {
+    height: 325px;
+    width: 550px;
+}
+
+.budget_gaming_image {
+    height: 325px;
+    width: 550px;
+}
+
+.vr_gaming_image {
+    height: 325px;
+    width: 550px;
+}
+
+.sales_image {
+    height: 325px;
+    width: 550px;
+}
